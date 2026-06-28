@@ -153,7 +153,7 @@ Once the ROIs are calibrated, the game operates in a strict, continuous loop man
 
 ## 👥 Project Team
 
-* **Elad Cohen** - [LinkedIn Profile](https://www.linkedin.com/in/elad-cohen-758878304/)
-* **Shira Atir** - [LinkedIn Profile](https://www.linkedin.com/in/shira-atir/)
-* **Roni Dvir** - [LinkedIn Profile](https://www.linkedin.com/in/roni-dvir/)
-* **Amir Zabari** - [LinkedIn Profile](https://www.linkedin.com/in/amir-tzabary/)
+* **Elad Cohen** - [https://www.linkedin.com/in/elad-cohen-758878304/]
+* **Shira Atir** - [https://www.linkedin.com/in/shira-atir/]
+* **Roni Dvir** - [https://www.linkedin.com/in/roni-dvir/]
+* **Amir Zabari** - [https://www.linkedin.com/in/amir-tzabary/]
