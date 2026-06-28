@@ -33,7 +33,7 @@ JACK_in_BLACK/
 │   ├── ranks/           # Rank images
 │   └── suits/           # Suit images
 ├── sounds/              # Audio feedback files
-└── pictures/            # UI assets & Logo
+└── pictures/            # Logo
 ```
 ---
 
