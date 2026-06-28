@@ -28,7 +28,6 @@ JACK_in_BLACK/
 ├── chips_classifier.py  # Image processing for chips
 ├── decision_chip_classifier.py # Decision tokens detection
 ├── requirements.txt     # Dependencies
-├── .gitignore           # Git ignore rules
 ├── templates/           # Card templates
 │   ├── ranks/           # Rank images
 │   └── suits/           # Suit images
