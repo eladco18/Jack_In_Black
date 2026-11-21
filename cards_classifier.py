@@ -520,7 +520,7 @@ if __name__ == "__main__":
     suit_templates = load_templates_for_test('templates/suits', SUIT_W, SUIT_H)
 
     # 2. Load the test image
-    img_path = "captured_image.jpg"  # WIN_20260503_14_36_00_Pro
+    img_path = "pictures/captured_image.jpg"  # WIN_20260503_14_36_00_Pro
     test_image = cv2.imread(img_path)
 
     if test_image is None:

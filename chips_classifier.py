@@ -228,7 +228,7 @@ def analyze_player_area(full_frame, roi_coords, debug=False, player_name="Player
 if __name__ == "__main__":
 
     set_system_scale (SYSTEM_SCALE)
-    image_source = "captured_image.jpg"
+    image_source = "pictures/captured_image.jpg"
     frame = cv2.imread(image_source)
 
     if frame is None:
